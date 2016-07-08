@@ -3,7 +3,37 @@
 LANGUAGES = [
     {
         'name': 'Spanish',
-        'common_words': ['yo', 'tu', 'el', 'nosotros']  # add your words here
+        'common_words': ['el', 'la', 'de', 'que', 'y', 'a', 'en', 'un', 'ser', 'se',
+                    'no', 'haber', 'por', 'con', 'su', 'para', 'como', 'estar',
+                    'tener', 'le', 'lo', 'lo', 'todo', 'pero', 'más', 'hacer',
+                    'o', 'poder', 'decir', 'este', 'ir', 'otro', 'ese', 'la',
+                    'si', 'me', 'ya', 'ver', 'porque', 'dar', 'cuando', 'él',
+                    'muy', 'sin', 'vez', 'mucho', 'saber', 'qué', 'sobre',
+                    'mi', 'alguno', 'mismo', 'yo', 'también', 'hasta']
     },
-    #  include your extra languages here
+            {
+                'name': 'German',
+                'common_words': [
+                    'das', 'ist', 'du', 'ich', 'nicht', 'die', 'es', 'und',
+                    'der', 'was', 'wir', 'zu', 'ein', 'er', 'in', 'sie', 'mir',
+                    'mit', 'ja', 'wie', 'den', 'auf', 'mich', 'dass', 'so',
+                    'hier', 'eine', 'wenn', 'hat', 'all', 'sind', 'von',
+                    'dich', 'war', 'haben', 'für', 'an', 'habe', 'da', 'nein',
+                    'bin', 'noch', 'dir', 'uns', 'sich', 'nur',
+                    'einen', 'kann', 'dem'
+                ]
+            },
+            {
+                'name':'English',
+                'common_words': [
+                    'the', 'a', 'an', 'with', 'without', 'of', 'it', 'or',
+                    'nor','no', 'yes', 'know', 'my', 'very', 'already', 'this',
+                    'that', 'much', 'very', 'same', 'I', 'me', 'you', 'your',
+                    'what', 'when', 'also', 'always', 'why', 'he', 'she',
+                    'every', 'but', 'already', 'we', 'them', 'us', 'they',
+                    'will', 'do', 'have', 'had', 'has', 'been', 'in', 'go',
+                    'know', 'more' 
+                    
+                    ]
+            }
 ]
